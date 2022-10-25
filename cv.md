@@ -35,3 +35,55 @@
 ## Work experience
 
 ## Education
+
++ ### ***Lipetsk State Pedagogical University***
+
+  **Faculty of Physical, Mathematical and Computer Sciences**
+
+  Information Security Specialist
+
++ ### ***Lipetsk Engineering College***
+
+  Technician for installation and operation of internal sanitary devices and ventilation systems
+
++ ### ***Courses***
+
+  + **Software testing for beginners**  
+*Stepik*  
+[Certificate](https://github.com/N7KA/N7KA/blob/main/Certificates/Тестирование%20ПО%20для%20начинающих.jpg)
+
+  + **Software testing from scratch to a specialist**  
+*Stepik*  
+[Certificate](https://github.com/N7KA/N7KA/blob/main/Certificates/Тестирование%20ПО%20с%20нуля%20до%20специалиста.jpg)
+
+  + **Software testing. Postman for API testing**  
+*Stepik*  
+[Certificate](https://github.com/N7KA/N7KA/blob/main/Certificates/Тестирование%20ПО.%20Postman%20для%20тестирования%20API.jpg)
+
+  + **Software testing. Preparation for ISTQB certification**  
+*Stepik*  
+[Certificate](https://github.com/N7KA/N7KA/blob/main/Certificates/Тестирование%20ПО.%20Подготовка%20к%20сертификации%20ISTQB.jpg)
+
+  + **Web development for beginners. HTML & CSS**  
+*Stepik*  
+[Certificate](https://github.com/N7KA/N7KA/blob/main/Certificates/Веб-разработка%20для%20начинающих.%20HTML%20и%20CSS.jpg)
+
+  + **Python. Course for beginners**  
+*Stepik*  
+[Certificate](https://github.com/N7KA/N7KA/blob/main/Certificates/Python.%20Курс%20для%20начинающих.jpg)
+
+  + **Introduction to Cybersecurity**  
+*Far Eastern Federal University*  
+[Certificate](https://github.com/N7KA/N7KA/blob/main/Certificates/Введение%20в%20кибербезопасность.jpg)
+
+  + **Introduction to Network technologies**  
+*Far Eastern Federal University*  
+[Сертификат](https://github.com/N7KA/N7KA/blob/main/Certificates/Введение%20в%20сетевые%20технологии.jpg)
+
+  + **Git & GitHub**  
+*Swiftbook*  
+[Certificate](https://github.com/N7KA/N7KA/blob/main/Certificates/Изучаем%20Git%20И%20GitHub.jpg)
+
+  + **Fundamentals of modern space and end-to-end technologies of the digital economy**  
+*Arcturus*  
+[Certificate](https://github.com/N7KA/N7KA/blob/main/Certificates/Основы%20современных%20космических%20и%20сквозных%20технологий%20цифровой%20экономики.jpg)
