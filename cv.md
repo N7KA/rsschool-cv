@@ -1,5 +1,4 @@
-![](https://github.com/N7KA/rsschool-cv/blob/gh-pages/AVA.png)
-# Anton Chursin
+# ![](https://github.com/N7KA/rsschool-cv/blob/gh-pages/AVA.png) Anton Chursin
 
 ## Contacts
 
