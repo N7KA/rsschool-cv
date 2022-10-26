@@ -32,18 +32,25 @@
 
 ## Code examples
 
-***JavaScript***
-
-```JS
-function multiply(a, b) {
-  return a * b;
-}
-```
-***Python***
-
 You will be given an array `a` and a value `x`. All you need to do is check whether the provided array contains the value.
 Array can contain numbers or strings. X can be either.
 Return `true` if the array contains the value, `false` if not.
+
+***JavaScript***
+
+```JS
+function check(a, x) {
+    for (var i = 0; i < a.length; i++) {
+        if (a[i] == x) {
+            return true;
+        }
+    }
+    return false;
+}
+```
+
+***Python***
+
 ```Python
 def check(seq, elem):
     if elem in seq:
@@ -53,6 +60,8 @@ def check(seq, elem):
 ```
 
 ## Work experience
+
+[Project CV. RS School learning](https://github.com/N7KA/rsschool-cv/blob/gh-pages/cv.md)
 
 ## Education
 
