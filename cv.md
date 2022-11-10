@@ -9,6 +9,8 @@
 [![Skype](https://img.shields.io/badge/Skype-white?style=social&logo=Skype&logoColor=26A5E4)](https://join.skype.com/invite/E8LfPXIfr4Mv)
 
 ## About Me
+Communicative, Analytical, Planning, Ambition, Self-development.  
+I have been working in sales for more than 15 years. Set a goal for yourself to change the field of activity. I have always been interested in information technology, so I decided to study at the front-end developer.
 
 ## Skills
 
@@ -106,3 +108,5 @@ def check(seq, elem):
 
   + **Fundamentals of modern space and end-to-end technologies of the digital economy**  
 *[Arcturus](https://github.com/N7KA/N7KA/blob/main/Certificates/Основы%20современных%20космических%20и%20сквозных%20технологий%20цифровой%20экономики.jpg)*
+
+## Basic level of knowledge of English
