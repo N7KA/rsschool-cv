@@ -112,8 +112,8 @@ def check(seq, elem):
 + **Моделирование бизнес-процессов**  
   *Stepik*
 
-  + **Основы Figma**  
-  *[Нетология. Сертификат](https://github.com/N7KA/N7KA/blob/main/Certificates/Основы%20Figma%20Нетология.jpg)*
+  + **Figma Basics**  
+  *[Netology](https://github.com/N7KA/N7KA/blob/main/Certificates/Основы%20Figma%20Нетология.jpg)*
 
 ## Language
   + **English B2**
