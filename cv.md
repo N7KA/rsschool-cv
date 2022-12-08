@@ -110,4 +110,4 @@ def check(seq, elem):
 *[Arcturus](https://github.com/N7KA/N7KA/blob/main/Certificates/Основы%20современных%20космических%20и%20сквозных%20технологий%20цифровой%20экономики.jpg)*
 
 ## Language
-  + **English Basic**
+  + **English B2**
