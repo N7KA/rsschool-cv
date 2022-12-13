@@ -34,6 +34,25 @@ body {
     margin: 0 auto;
 }
 
+.footer {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    list-style: none;
+    background-color: bisque;
+}
+
+.footer_link {
+    padding: 0 20px;
+    line-height: 50px;
+    transition: .3s;
+    color: black;
+    font-size: medium;
+    font-family: Roboto, sans-serif;
+    text-decoration: none;
+    text-transform: uppercase;    
+}
+
 .nav-list {
     display: flex;
     justify-content: flex-end;
@@ -58,7 +77,7 @@ body {
     line-height: 50px;
     transition: .5s;
     color: red;
-    font-size: medium;
+    font-size: 105%;
     font-family: Roboto;
     text-decoration: none;
     text-transform: uppercase;
@@ -83,9 +102,7 @@ body {
     .section {
         width: 100%;
     }
-}
 
-@media (max-width: 768px) {
     .nav-list {
         flex-wrap: wrap;
         justify-content: center;
