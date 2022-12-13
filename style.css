@@ -45,7 +45,7 @@ body {
 .footer_link {
     padding: 0 20px;
     line-height: 50px;
-    transition: .3s;
+    transition: .25s;
     color: black;
     font-size: medium;
     font-family: Roboto, sans-serif;
@@ -64,7 +64,7 @@ body {
 .nav-link {
     padding: 0 20px;
     line-height: 50px;
-    transition: .3s;
+    transition: .25s;
     color: black;
     font-size: medium;
     font-family: Roboto, sans-serif;
@@ -75,7 +75,7 @@ body {
 .nav-link:hover {
     padding: 0 20px;
     line-height: 50px;
-    transition: .5s;
+    transition: .25s;
     color: red;
     font-size: 105%;
     font-family: Roboto;
@@ -107,4 +107,9 @@ body {
         flex-wrap: wrap;
         justify-content: center;
     }
+}
+
+.contact_pict:hover {
+    transition: 0.25s;
+    scale: 1.07;
 }
