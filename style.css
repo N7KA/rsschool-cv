@@ -84,3 +84,10 @@ body {
         width: 100%;
     }
 }
+
+@media (max-width: 768px) {
+    .nav-list {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+}
