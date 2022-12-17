@@ -1,0 +1,238 @@
+* {
+    box-sizing: border-box;
+}
+
+@font-face {
+    font-family: Roboto;
+    src: url("assets/fonts/RobotoMono.ttf");
+}
+
+@font-face {
+    font-family: Montserrat;
+    src: url("assets/fonts/Montserrat.ttf");
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    min-height: 100vh;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    font-family: Montserrat, sans-serif;
+    max-width: 1440px;
+    margin: 0 auto;
+    background-color:azure;
+}
+
+table {
+    max-width: 1440px;
+    margin: 0 auto;
+    text-align: left;
+}
+
+.container {
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+.footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    list-style: none;
+    background-color: bisque;
+}
+
+.footer_link {
+    padding: 0 30px;
+    line-height: 50px;
+    transition: .25s;
+    color: black;
+    font-size: medium;
+    font-family: Roboto, sans-serif;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.nav-list {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    list-style: none;
+    background-color: bisque;
+}
+
+.nav-link {
+    padding: 0 30px;
+    line-height: 50px;
+    transition: .25s;
+    color: black;
+    font-size: medium;
+    font-family: Roboto, sans-serif;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.nav-link:hover {
+    padding: 0 30px;
+    line-height: 50px;
+    transition: .25s;
+    color: red;
+    font-size: 105%;
+    font-family: Roboto;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.contact {
+    text-decoration: none;
+    color: black;
+    list-style: none;
+}
+
+.main-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.section {
+    width: 50%;
+}
+
+@media (max-width: 768px) {
+    .section {
+        width: 100%;
+    }
+
+    .nav-list {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+}
+
+.contact_pict:hover {
+    transition: 0.15s;
+    scale: 1.10;
+}
+
+.contact_link {
+    text-decoration: none;
+    list-style: none;
+}
+
+.RSS_logo {
+    text-decoration: none;
+    list-style: none;
+    justify-self: end;
+    height: 32px;
+}
+
+.RSS_logo:hover {
+    transition: 0.15s;
+    scale: 1.10;
+}
+
+.yaer {
+    font-family: Montserrat;
+    font-size: small;
+}
+
+.codeex {
+    background-color: rgba(128, 128, 128, 0.4);
+    border-radius: 4px;
+    font-family: Roboto;
+    font-size: 110%;
+}
+
+.JSCode_1 {
+    color: brown;
+}
+
+.JSCode_2 {
+    color: blue;
+}
+
+.JavaScrypt {
+    padding: 5px;
+    font-size: large;
+    background-color: rgba(128, 128, 128, 0.25);
+    border-radius: 10px;
+    text-align: left;
+}
+
+.Phyton_1 {
+    color: brown;
+}
+
+.Phyton_2 {
+    color: blue;
+}
+
+.Phyton {
+    padding: 5px;
+    font-size: large;
+    background-color: rgba(128, 128, 128, 0.25);
+    border-radius: 10px;
+    text-align: left;
+}
+
+.skills {
+    list-style: none;
+}
+
+h1 {
+    text-align: center;
+}
+
+.about {
+    text-align: center;
+    color: cadetblue;
+}
+
+.ava {
+    padding: 10px;
+    border-radius: 70px;
+}
+
+.NameCourse {
+    text-transform: uppercase;
+    font-family: Roboto;
+}
+
+.serteficate {
+    color: black;
+    text-decoration: none;
+}
+
+.serteficate:hover {
+    transition: 0.5ms;
+    color: red;
+}
+
+h3 {
+    font-family: Roboto;
+    text-transform: uppercase;
+}
+
+h2 {
+    font-family: Montserrat;
+    text-transform: uppercase;
+}
+
+.project {
+    text-transform: uppercase;
+    font-family: Roboto;
+    color: black;
+    text-decoration: none;
+}
+
+.project:hover {
+    transition: 0.5ms;
+    color: red;
+    background-color:antiquewhite;
+}
