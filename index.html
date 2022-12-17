@@ -27,10 +27,17 @@
         </div>
     </header>
     <main class="main">
-        <div class="container"></div>
-        <section class="section" id="profile">
-            <h1>Anton Chursin</h1>
-        </section>
+        <div class="container">
+            <div class="main-container" id="main-container_0">
+                <section class="section" id="avatar">
+                    <img class="ava" src="AVA.png">
+                </section>
+                <section class="section" id="profile">
+                    <h1>Anton Chursin</h1>
+                    <h2 class="about">Beginner front-end developer</h2>
+                </section>
+            </div>
+        </div>
         <div class="main-container" id="main-container_1">
             <section class="section" id="contacts">
                 <h2>Contacts</h2>
@@ -139,6 +146,100 @@
                     </li>
                 </ul>
             </section>
+            <section class="section" id="education">
+                <h2>Education</h2>
+                <ul>
+                    <li>
+                        <h3>Lipetsk State Pedagogical University</h3>
+                        <p>Faculty of Physical, Mathematical and Computer Sciences</p>
+                        <p>Information Security Specialist</p>
+                    </li>
+                    <li>
+                        <h3>Lipetsk Engineering College</h3>
+                        <p>Technician for installation and operation of internal sanitary devices and ventilation
+                            systems</p>
+                    </li>
+                </ul>
+            </section>
+        </div>
+        <div class="main-container" id="main-container_3">
+            <section class="section" id="course">
+                <h2>Course</h2>
+                <ul>
+                    <li>
+                        <a class="NameCourse">
+                            Software testing for beginners
+                        </a><br>
+                        <a class="serteficate" target="_blank" href="https://github.com/N7KA/N7KA/blob/main/Certificates/Тестирование%20ПО%20для%20начинающих.jpg">Stepik. Sertificate.
+                        </a>
+                    </li><br>
+                    <li>
+                        <a class="NameCourse">
+                            Software testing from scratch to a specialist
+                        </a><br>
+                        <a class="serteficate" target="_blank" href="https://github.com/N7KA/N7KA/blob/main/Certificates/Тестирование%20ПО%20с%20нуля%20до%20специалиста.jpg">Stepik. Sertificate.
+                        </a>
+                    </li><br>
+                    <li>
+                        <a class="NameCourse">
+                            Software testing. Postman for API testing
+                        </a><br>
+                        <a class="serteficate" target="_blank" href="https://github.com/N7KA/N7KA/blob/main/Certificates/Тестирование%20ПО.%20Postman%20для%20тестирования%20API.jpg">Stepik. Sertificate.
+                        </a>
+                    </li><br>
+                    <li>
+                        <a class="NameCourse">
+                            Software testing. Preparation for ISTQB certification
+                        </a><br>
+                        <a class="serteficate" target="_blank" href="https://github.com/N7KA/N7KA/blob/main/Certificates/Тестирование%20ПО%20для%20начинающих.jpg">Stepik. Sertificate.
+                        </a>
+                    </li><br>
+                    <li>
+                        <a class="NameCourse">
+                            Web development for beginners. HTML & CSS
+                        </a><br>
+                        <a class="serteficate" target="_blank" href="https://github.com/N7KA/N7KA/blob/main/Certificates/Веб-разработка%20для%20начинающих.%20HTML%20и%20CSS.jpg">Stepik. Sertificate.
+                        </a>
+                    </li><br>
+                    <li>
+                        <a class="NameCourse">
+                            Python for beginners
+                        </a><br>
+                        <a class="serteficate" target="_blank" href="https://github.com/N7KA/N7KA/blob/main/Certificates/Python.%20Курс%20для%20начинающих.jpg">Stepik. Sertificate.
+                        </a>
+                    </li><br>
+                    <li>
+                        <a class="NameCourse">
+                            Introduction to Cybersecurity
+                        </a><br>
+                        <a class="serteficate" target="_blank" href="https://github.com/N7KA/N7KA/blob/main/Certificates/Введение%20в%20кибербезопасность.jpg">Far Eastern Federal University. Sertificate.
+                        </a>
+                    </li><br>
+                    <li>
+                        <a class="NameCourse">
+                            Introduction to Network technologies
+                        </a><br>
+                        <a class="serteficate" target="_blank" href="https://github.com/N7KA/N7KA/blob/main/Certificates/Введение%20в%20сетевые%20технологии.jpg">Far Eastern Federal University. Sertificate.
+                        </a>
+                    </li><br>
+                    <li>
+                        <a class="NameCourse">
+                            Git & GitHub
+                        </a><br>
+                        <a class="serteficate" target="_blank" href="https://github.com/N7KA/N7KA/blob/main/Certificates/Изучаем%20Git%20И%20GitHub.jpg">Swiftbook. Sertificate.
+                        </a>
+                    </li><br>
+                    <li>
+                        <a class="NameCourse">
+                            Fundamentals of modern space and end-to-end technologies of the digital economy
+                        </a><br>
+                        <a class="serteficate" target="_blank" href="https://github.com/N7KA/N7KA/blob/main/Certificates/Основы%20современных%20космических%20и%20сквозных%20технологий%20цифровой%20экономики.jpg">Arcturus. Sertificate.
+                        </a>
+                    </li><br>
+                    </li>
+                </ul>
+
+            </section>
             <section class="section" id="code">
                 <h2>Code</h2>
                 <p>
@@ -146,33 +247,43 @@
                     All you need to do is check whether the provided array contains the value. Array can contain numbers
                     or strings. X can be either. Return <span class="codeex">true</span> if the array contains the
                     value, <span class="codeex">false</span> if not.
-                </p>JavaScrypt
+                </p>
+                <p>JavaScrypt</p>
                 <pre class="JavaScrypt">
-                    <span class="JSCode_1">function</span> <span class="JSCode_2">check</span>(a, x) {
-                        <span class="JSCode_1">for</span> (<span class="JSCode_1">var</span> i = 0; i < a.length; i++) {
-                            <span class="JSCode_1">if</span> (a[i] == x) {
-                                <span class="JSCode_1">return</span> <span class="JSCode_2">true</span>;
-                            }
-                        }
-                        <span class="JSCode_1">return</span> <span class="JSCode_2">false</span>;
-                    }
+<span class="JSCode_1">function</span> <span class="JSCode_2">check</span>(a, x) {
+    <span class="JSCode_1">for</span> (<span class="JSCode_1">var</span> i = 0; i < a.length; i++) {
+        <span class="JSCode_1">if</span> (a[i] == x) {
+            <span class="JSCode_1">return</span> <span class="JSCode_2">true</span>;
+            }
+        }
+    <span class="JSCode_1">return</span> <span class="JSCode_2">false</span>;
+}
+                </pre>
+                <br>
+                <p>Phyton</p>
+                <pre class="Phyton">
+<span class="Phyton_1">def</span> <span class="Phyton_2">check</span>(seq, elem):
+    <span class="Phyton_1">if</span> elem <span class="Phyton_1">in</span> seq:
+        <span class="Phyton_1">return</span> <span class="Phyton_2">True</span>
+    <span class="Phyton_1">else</span>:
+        <span class="Phyton_1">return</span> <span class="Phyton_2">False</span>
                 </pre>
             </section>
         </div>
-        <div class="main-container" id="main-container_3">
-            <section class="section" id="education">
-                <h2>Education</h2>
-            </section>
+        <div class="main-container" id="main-container_4">
             <section class="section" id="projects">
                 <h2>Projects</h2>
-            </section>
-        </div>
-        <div class="main-container" id="main-container_4">
-            <section class="section" id="course">
-                <h2>Course</h2>
+                <p>
+                    <a class="project" href="https://github.com/N7KA/rsschool-cv/blob/gh-pages/cv.md">
+                    Project CV. RS School learning
+                    </a>
+                </p>
             </section>
             <section class="section" id="english">
                 <h2>English</h2>
+                <p>
+                    Basic level of knowledge of English
+                </p>
             </section>
         </div>
     </main>

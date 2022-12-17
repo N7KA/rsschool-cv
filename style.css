@@ -152,7 +152,24 @@ body {
 }
 
 .JavaScrypt {
-    font-size: larger;
+    padding: 5px;
+    font-size: large;
+    background-color: rgba(128, 128, 128, 0.25);
+    border-radius: 10px;
+    text-align: left;
+}
+
+.Phyton_1 {
+    color: brown;
+}
+
+.Phyton_2 {
+    color: blue;
+}
+
+.Phyton {
+    padding: 5px;
+    font-size: large;
     background-color: rgba(128, 128, 128, 0.25);
     border-radius: 10px;
     text-align: left;
@@ -160,4 +177,56 @@ body {
 
 .skills {
     list-style: none;
+}
+
+h1 {
+    text-align: center;
+}
+
+.about {
+    text-align: center;
+    color: cadetblue;
+}
+
+.ava {
+    padding: 10px;
+    border-radius: 70px;
+}
+
+.NameCourse {
+    text-transform: uppercase;
+    font-family: Roboto;
+}
+
+.serteficate {
+    color: black;
+    text-decoration: none;
+}
+
+.serteficate:hover {
+    transition: 0.5ms;
+    color: red;
+}
+
+h3 {
+    font-family: Roboto;
+    text-transform: uppercase;
+}
+
+h2 {
+    font-family: Montserrat;
+    text-transform: uppercase;
+}
+
+.project {
+    text-transform: uppercase;
+    font-family: Roboto;
+    color: black;
+    text-decoration: none;
+}
+
+.project:hover {
+    transition: 0.5ms;
+    color: red;
+    background-color:antiquewhite;
 }
