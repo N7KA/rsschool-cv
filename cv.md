@@ -14,23 +14,23 @@ I have been working in sales for more than 15 years. Set a goal for yourself to 
 
 ## Skills
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Github](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=black)
-![Redmine](https://img.shields.io/badge/redmine-B32024?style=for-the-badge&logo=redmine&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/virtualbox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
-![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)
-![SQLite](https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=A6A9AA)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Anaconda](https://img.shields.io/badge/anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=black)
-![Fiddler](https://img.shields.io/badge/fiddler-green?style=for-the-badge&logo=fiddler&logoColor=white)
-![Apache JMeter](https://img.shields.io/badge/apache%20jmeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
-![Android Studio](https://img.shields.io/badge/android%20studio-0078D6?style=for-the-badge&logo=androidstudio&logoColor=green)
-![Postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/visual%20studio%20code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=black)
-![Microsoft Office](https://img.shields.io/badge/ms%20office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=black)
-![Windows](https://img.shields.io/badge/windows-3DDC84?style=for-the-badge&logo=windows&logoColor=black)
+![Git](https://img.shields.io/badge/Git-rgba(255,255,255,0)?style=for-the-badge&logo=git&logoColor=F05032)
+![Github](https://img.shields.io/badge/Github-rgba(255,255,255,0)?style=for-the-badge&logo=github&logoColor=181717)
+![Figma](https://img.shields.io/badge/figma-rgba(255,255,255,0)?style=for-the-badge&logo=figma&logoColor=F24E1E)
+![Redmine](https://img.shields.io/badge/redmine-rgba(255,255,255,0)?style=for-the-badge&logo=redmine&logoColor=B32024)
+![VirtualBox](https://img.shields.io/badge/virtualbox-rgba(255,255,255,0)?style=for-the-badge&logo=virtualbox&logoColor=183A61)
+![Python](https://img.shields.io/badge/python-rgba(255,255,255,0)?style=for-the-badge&logo=python&logoColor=3776AB)
+![SQLite](https://img.shields.io/badge/sqlite-rgba(255,255,255,0)?style=for-the-badge&logo=sqlite&logoColor=003B57)
+![HTML5](https://img.shields.io/badge/HTML5-rgba(255,255,255,0)?style=for-the-badge&logo=HTML5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/css3-rgba(255,255,255,0)?style=for-the-badge&logo=css3&logoColor=1572B6)
+![Anaconda](https://img.shields.io/badge/anaconda-rgba(255,255,255,0)?style=for-the-badge&logo=anaconda&logoColor=44A833)
+![Fiddler](https://img.shields.io/badge/fiddler-rgba(255,255,255,0)?style=for-the-badge&logo=fiddler&logoColor=green)
+![Apache JMeter](https://img.shields.io/badge/apache%20jmeter-rgba(255,255,255,0)?style=for-the-badge&logo=apachejmeter&logoColor=D22128)
+![Android Studio](https://img.shields.io/badge/android%20studio-rgba(255,255,255,0)?style=for-the-badge&logo=androidstudio&logoColor=0078D6)
+![Postman](https://img.shields.io/badge/postman-rgba(255,255,255,0)?style=for-the-badge&logo=postman&logoColor=FF6C37)
+![Visual Studio Code](https://img.shields.io/badge/visual%20studio%20code-rgba(255,255,255,0)?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+![Microsoft Office](https://img.shields.io/badge/ms%20office-rgba(255,255,255,0)?style=for-the-badge&logo=microsoftoffice&logoColor=D83B01)
+![Windows](https://img.shields.io/badge/windows-rgba(255,255,255,0)?style=for-the-badge&logo=windows&logoColor=0078D6)
 
 ## Code examples
 
@@ -80,33 +80,40 @@ def check(seq, elem):
 + ### ***Courses***
 
   + **Software testing for beginners**  
-*[Stepik](https://github.com/N7KA/N7KA/blob/main/Certificates/Тестирование%20ПО%20для%20начинающих.jpg)*
+  *[Stepik](https://github.com/N7KA/N7KA/blob/main/Certificates/Тестирование%20ПО%20для%20начинающих.jpg)*
 
   + **Software testing from scratch to a specialist**  
-*[Stepik](https://github.com/N7KA/N7KA/blob/main/Certificates/Тестирование%20ПО%20с%20нуля%20до%20специалиста.jpg)*
+  *[Stepik](https://github.com/N7KA/N7KA/blob/main/Certificates/Тестирование%20ПО%20с%20нуля%20до%20специалиста.jpg)*
 
   + **Software testing. Postman for API testing**  
-*[Stepik](https://github.com/N7KA/N7KA/blob/main/Certificates/Тестирование%20ПО.%20Postman%20для%20тестирования%20API.jpg)*
+  *[Stepik](https://github.com/N7KA/N7KA/blob/main/Certificates/Тестирование%20ПО.%20Postman%20для%20тестирования%20API.jpg)*
 
   + **Software testing. Preparation for ISTQB certification**  
-*[Stepik](https://github.com/N7KA/N7KA/blob/main/Certificates/Тестирование%20ПО.%20Подготовка%20к%20сертификации%20ISTQB.jpg)*
+  *[Stepik](https://github.com/N7KA/N7KA/blob/main/Certificates/Тестирование%20ПО.%20Подготовка%20к%20сертификации%20ISTQB.jpg)*
 
   + **Web development for beginners. HTML & CSS**  
-*[Stepik](https://github.com/N7KA/N7KA/blob/main/Certificates/Веб-разработка%20для%20начинающих.%20HTML%20и%20CSS.jpg)*
+  *[Stepik](https://github.com/N7KA/N7KA/blob/main/Certificates/Веб-разработка%20для%20начинающих.%20HTML%20и%20CSS.jpg)*
 
   + **Python. Course for beginners**  
-*[Stepik](https://github.com/N7KA/N7KA/blob/main/Certificates/Python.%20Курс%20для%20начинающих.jpg)*
+  *[Stepik](https://github.com/N7KA/N7KA/blob/main/Certificates/Python.%20Курс%20для%20начинающих.jpg)*
 
   + **Introduction to Cybersecurity**  
-*[Far Eastern Federal University](https://github.com/N7KA/N7KA/blob/main/Certificates/Введение%20в%20кибербезопасность.jpg)*
+  *[Far Eastern Federal University](https://github.com/N7KA/N7KA/blob/main/Certificates/Введение%20в%20кибербезопасность.jpg)*
 
   + **Introduction to Network technologies**  
-[Far Eastern Federal University](https://github.com/N7KA/N7KA/blob/main/Certificates/Введение%20в%20сетевые%20технологии.jpg)
+  *[Far Eastern Federal University](https://github.com/N7KA/N7KA/blob/main/Certificates/Введение%20в%20сетевые%20технологии.jpg)*
 
   + **Git & GitHub**  
-*[Swiftbook](https://github.com/N7KA/N7KA/blob/main/Certificates/Изучаем%20Git%20И%20GitHub.jpg)*
+  *[Swiftbook](https://github.com/N7KA/N7KA/blob/main/Certificates/Изучаем%20Git%20И%20GitHub.jpg)*
 
   + **Fundamentals of modern space and end-to-end technologies of the digital economy**  
-*[Arcturus](https://github.com/N7KA/N7KA/blob/main/Certificates/Основы%20современных%20космических%20и%20сквозных%20технологий%20цифровой%20экономики.jpg)*
+  *[Arcturus](https://github.com/N7KA/N7KA/blob/main/Certificates/Основы%20современных%20космических%20и%20сквозных%20технологий%20цифровой%20экономики.jpg)*
 
-## Basic level of knowledge of English
+  + **Business process modeling**  
+  *Stepik*  
+
+  + **Figma Basics**  
+  *[Netology](https://github.com/N7KA/N7KA/blob/main/Certificates/Основы%20Figma%20Нетология.jpg)*
+
+## Language
+  + **English B2**
