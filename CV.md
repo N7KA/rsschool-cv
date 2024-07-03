@@ -24,3 +24,89 @@ I have been working in sales for more than 15 years. Set a goal for yourself to 
 ![Postman](https://img.shields.io/badge/postman-rgba(255,255,255,0)?style=for-the-badge&logo=postman&logoColor=FF6C37)
 ![Visual Studio Code](https://img.shields.io/badge/visual%20studio%20code-rgba(255,255,255,0)?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
 ![Microsoft Office](https://img.shields.io/badge/ms%20office-rgba(255,255,255,0)?style=for-the-badge&logo=microsoftoffice&logoColor=D83B01)
+
+## Code examples
+
+You will be given an array `a` and a value `x`. All you need to do is check whether the provided array contains the value.
+Array can contain numbers or strings. X can be either.
+Return `true` if the array contains the value, `false` if not.
+
+***JavaScript***
+
+```JS
+function check(a, x) {
+    for (var i = 0; i < a.length; i++) {
+        if (a[i] == x) {
+            return true;
+        }
+    }
+    return false;
+}
+```
+
+***Python***
+
+```Python
+def check(seq, elem):
+    if elem in seq:
+        return True
+    else:
+        return False
+```
+## Work experience
+
+[Project CV. RS School learning](https://github.com/N7KA/rsschool-cv/blob/gh-pages/cv.md)
+
+## Education
+
++ ### ***Lipetsk State Pedagogical University***
+
+  **Faculty of Physical, Mathematical and Computer Sciences**
+
+  Information Security Specialist
+
++ ### ***Lipetsk Engineering College***
+
+  Technician for installation and operation of internal sanitary devices and ventilation systems
+
++ ### ***Courses***
+
+  + **Software testing for beginners**  
+  *[Stepik](https://github.com/N7KA/N7KA/blob/main/Certificates/Тестирование%20ПО%20для%20начинающих.jpg)*
+
+  + **Software testing from scratch to a specialist**  
+  *[Stepik](https://github.com/N7KA/N7KA/blob/main/Certificates/Тестирование%20ПО%20с%20нуля%20до%20специалиста.jpg)*
+
+  + **Software testing. Postman for API testing**  
+  *[Stepik](https://github.com/N7KA/N7KA/blob/main/Certificates/Тестирование%20ПО.%20Postman%20для%20тестирования%20API.jpg)*
+
+  + **Software testing. Preparation for ISTQB certification**  
+  *[Stepik](https://github.com/N7KA/N7KA/blob/main/Certificates/Тестирование%20ПО.%20Подготовка%20к%20сертификации%20ISTQB.jpg)*
+
+  + **Web development for beginners. HTML & CSS**  
+  *[Stepik](https://github.com/N7KA/N7KA/blob/main/Certificates/Веб-разработка%20для%20начинающих.%20HTML%20и%20CSS.jpg)*
+
+  + **Python. Course for beginners**  
+  *[Stepik](https://github.com/N7KA/N7KA/blob/main/Certificates/Python.%20Курс%20для%20начинающих.jpg)*
+
+  + **Introduction to Cybersecurity**  
+  *[Far Eastern Federal University](https://github.com/N7KA/N7KA/blob/main/Certificates/Введение%20в%20кибербезопасность.jpg)*
+
+  + **Introduction to Network technologies**  
+  *[Far Eastern Federal University](https://github.com/N7KA/N7KA/blob/main/Certificates/Введение%20в%20сетевые%20технологии.jpg)*
+
+  + **Git & GitHub**  
+  *[Swiftbook](https://github.com/N7KA/N7KA/blob/main/Certificates/Изучаем%20Git%20И%20GitHub.jpg)*
+
+  + **Fundamentals of modern space and end-to-end technologies of the digital economy**  
+  *[Arcturus](https://github.com/N7KA/N7KA/blob/main/Certificates/Основы%20современных%20космических%20и%20сквозных%20технологий%20цифровой%20экономики.jpg)*
+
+  + **Business process modeling**  
+  *Stepik*  
+
+  + **Figma Basics**  
+  *[Netology](https://github.com/N7KA/N7KA/blob/main/Certificates/Основы%20Figma%20Нетология.jpg)*
+
+## Language
+  + **Russian - native**
+  + **English - B2**
