@@ -72,7 +72,7 @@ def check(seq, elem):
 + ### ***Courses***
 
   + **Software testing for beginners**  
-  *[Stepik](https://github.com/N7KA/N7KA/blob/main/Certificates/Тестирование%20ПО%20для%20начинающих.jpg)*
+  *![Stepik](https://github.com/N7KA/N7KA/blob/main/Certificates/Тестирование%20ПО%20для%20начинающих.jpg)*
 
   + **Software testing from scratch to a specialist**  
   *[Stepik](https://github.com/N7KA/N7KA/blob/main/Certificates/Тестирование%20ПО%20с%20нуля%20до%20специалиста.jpg)*
